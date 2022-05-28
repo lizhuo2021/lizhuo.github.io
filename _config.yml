@@ -6,19 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: 洋流
 
 # Your name to show in the footer
-author: Some Person
+author: Li Zhuo
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  关于: "aboutme"
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -40,12 +39,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "lizhuo1995pro@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#   twitter: daattali
+#   patreon: DeanAttali
+#   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
